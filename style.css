@@ -1,0 +1,14 @@
+body{
+    box-sizing: border-box;
+    margin: 0px auto;
+    padding: 0px;
+    background-color: #E0CBA8;
+    color: #564154;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.cont-titolo{
+    background-color: #779FA1;
+    opacity: 0.85 ;
+    margin: 0px;
+}
