@@ -1,0 +1,45 @@
+body{
+    box-sizing: border-box;
+    background-color: #E0CBA8;
+    margin: 0px;
+    color: #564154;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contenitore{
+    max-width:1000px;
+    margin: 0px auto;
+    padding: 0px;
+    
+}
+
+
+h1#titolo{
+    font-size: 24;
+    background-color:#779FA1 ;
+    border-radius: 7px ;
+    border: 1px solid #564154;
+    text-align: center;
+    padding: 8px 0px;
+    margin-bottom: 8px;
+}
+
+div h2{
+    margin:3px 0px ;
+}
+
+img.tiramisù{
+    float: right;
+    border: 1px solid #564154;
+    border-radius: 5px;
+    width: 250px;
+    
+}
+
+div.cont-home{
+    background-color: #FF6542;
+    text-align: center;
+    font-size: small;
+    padding:15px 0px 20px;
+
+}
